@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "carmen-sandiego-app",
+    "slug": "carmen-sandiego-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "carmen-sandiego-app"
+}
